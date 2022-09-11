@@ -1,0 +1,96 @@
+.menu-8 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  width: 428px;
+}
+
+.overlay .menu-8 {
+  background-color: #00000000;
+}
+
+.menu-9 {
+  align-items: flex-end;
+  background-color: var(--text);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 926px;
+  left: calc(50vw - 214.0px);
+  opacity: 0.98;
+  padding: 48px 22px;
+  position: relative;
+  top: calc(50vh - 463.0px);
+  width: 428px;
+}
+
+.icon-close {
+  height: 48px;
+  width: 48px;
+}
+
+.frame-124 {
+  align-items: flex-start;
+  align-self: center;
+  border: 1px none;
+  display: flex;
+  height: 364px;
+  margin-top: 67px;
+  min-width: 376px;
+}
+
+.overlap-group-12 {
+  height: 325px;
+  margin-top: -53px;
+  position: relative;
+  width: 376px;
+}
+
+.view-account-on-block-explorer {
+  height: 109px;
+  left: 0;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 376px;
+}
+
+.address-book {
+  height: 109px;
+  left: 0;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+  position: absolute;
+  text-align: center;
+  top: 72px;
+  width: 376px;
+}
+
+.connected-apps {
+  height: 109px;
+  left: 0;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+  position: absolute;
+  text-align: center;
+  top: 144px;
+  width: 376px;
+}
+
+.change-password {
+  height: 109px;
+  left: 0;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+  position: absolute;
+  text-align: center;
+  top: 216px;
+  width: 376px;
+}
+
+#overlay-menu {
+  background-color: transparent;
+}
+

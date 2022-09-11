@@ -1,0 +1,35 @@
+.frame-133 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  left: 821px;
+  min-height: 121px;
+  position: absolute;
+  top: 205px;
+  width: 265px;
+}
+
+.learn-more-1 {
+  letter-spacing: -0.50px;
+  margin-top: -4px;
+  min-height: 30px;
+}
+
+.documentation {
+  letter-spacing: -0.50px;
+  margin-top: 20px;
+  min-height: 37px;
+  width: 265px;
+}
+
+.terms-of-service {
+  letter-spacing: -0.50px;
+  min-height: 37px;
+  width: 265px;
+}
+
+.frame-133.frame-134 {
+  left: 1076px;
+}
+

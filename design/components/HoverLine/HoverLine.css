@@ -1,0 +1,18 @@
+.hover-line {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 364.0px;
+  min-width: 86px;
+  padding: 103.0px 37.5px;
+}
+
+.rectangle {
+  background-color: var(--white);
+  border: 1px solid;
+  border-radius: 40px;
+  height: 10px;
+  margin-top: 148.0px;
+  width: 10px;
+}
+

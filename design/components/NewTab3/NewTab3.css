@@ -1,0 +1,55 @@
+.new-tab-7 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 84px;
+  justify-content: flex-end;
+  min-width: 283px;
+}
+
+.epcoin-7 {
+  cursor: pointer;
+  height: 38px;
+  margin-top: 1px;
+  width: 38px;
+}
+
+.akar-iconsgrid-7 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 73px;
+  width: 40px;
+}
+
+.flex-col-8 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 42px;
+  min-height: 84px;
+  width: 100px;
+}
+
+.fluenthistory-16-regular-7 {
+  height: 40px;
+  width: 40px;
+}
+
+.transactions-1 {
+  height: 29px;
+  letter-spacing: -0.32px;
+  line-height: 18.4px;
+  text-align: center;
+  width: 100px;
+}
+
+.rectangle-2731-7 {
+  background-color: var(--bb-green);
+  border: 1px none;
+  border-radius: 100px;
+  height: 6px;
+  margin-right: 1.0px;
+  margin-top: 9px;
+  width: 61px;
+}
+

@@ -1,0 +1,35 @@
+.back-title-4,
+.back-title-5,
+.back-title-6 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 327px;
+  padding: 0 7px;
+  position: absolute;
+  top: 17px;
+}
+
+.back-4,
+.back-5,
+.back-6 {
+  align-self: center;
+  height: 34px;
+  margin-bottom: 0.06px;
+  width: 34px;
+}
+
+.blockchain-1,
+.network,
+.rpc {
+  height: 64px;
+  letter-spacing: -0.60px;
+  line-height: 23.0px;
+  margin-left: 4px;
+  margin-top: -1px;
+  width: 250px;
+}
+

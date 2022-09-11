@@ -1,0 +1,145 @@
+.new-header,
+.new-header-1,
+.new-header-2,
+.new-header-3,
+.new-header-4,
+.new-header-5,
+.new-header-6,
+.new-header-7 {
+  align-items: center;
+  border: 1px none;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  margin-top: 17px;
+  min-width: 391px;
+  padding: 0 9px;
+}
+
+.eth-mainnet,
+.eth-mainnet-1,
+.eth-mainnet-2,
+.eth-mainnet-3,
+.eth-mainnet-4,
+.eth-mainnet-5,
+.eth-mainnet-6,
+.eth-mainnet-7 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--g2);
+  border: 1px none;
+  border-radius: 12px;
+  cursor: pointer;
+  display: flex;
+  height: 46px;
+  justify-content: flex-end;
+  min-width: 127px;
+  position: relative;
+}
+
+.solana-mainnet,
+.solana-mainnet-1,
+.solana-mainnet-2,
+.solana-mainnet-3,
+.solana-mainnet-4,
+.solana-mainnet-5,
+.solana-mainnet-6,
+.solana-mainnet-7 {
+  height: 44px;
+  letter-spacing: -0.56px;
+  line-height: 16.1px;
+  margin-left: 6px;
+  width: 118px;
+}
+
+.span1,
+.span1-1,
+.span1-2,
+.span1-3,
+.span1-4,
+.span1-5,
+.span1-6,
+.span1-7 {
+  letter-spacing: -0.44px;
+  line-height: 12.7px;
+}
+
+.account-3,
+.account-3-1,
+.account-3-2,
+.account-3-3,
+.account-3-4,
+.account-3-5,
+.account-3-6,
+.account-3-7 {
+  align-items: flex-start;
+  background-color: var(--g2);
+  border: 1px none;
+  border-radius: 12px;
+  cursor: pointer;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 10px;
+  min-width: 136px;
+  padding: 0 4px;
+}
+
+.overlap-group-1,
+.overlap-group-2,
+.overlap-group-3,
+.overlap-group-4,
+.overlap-group-5,
+.overlap-group-6,
+.overlap-group-7,
+.overlap-group-8 {
+  height: 47px;
+  position: relative;
+  width: 117px;
+}
+
+.account-3-0x92-a75b21,
+.account-3-0x92-a75b21-1,
+.account-3-0x92-a75b21-2,
+.account-3-0x92-a75b21-3,
+.account-3-0x92-a75b21-4,
+.account-3-0x92-a75b21-5,
+.account-3-0x92-a75b21-6,
+.account-3-0x92-a75b21-7 {
+  height: 44px;
+  left: 0;
+  letter-spacing: -0.56px;
+  line-height: 16.1px;
+  position: absolute;
+  top: 1px;
+  width: 95px;
+}
+
+.copy,
+.copy-1,
+.copy-2,
+.copy-3,
+.copy-4,
+.copy-5,
+.copy-6,
+.copy-7 {
+  height: 16px;
+  margin-bottom: 1.0px;
+  margin-left: 10px;
+  width: 16px;
+}
+
+.menu,
+.menu-1,
+.menu-2,
+.menu-3,
+.menu-4,
+.menu-5,
+.menu-6,
+.menu-7 {
+  cursor: pointer;
+  height: 32px;
+  margin-left: 32px;
+  margin-top: 1.0px;
+  width: 32px;
+}
+

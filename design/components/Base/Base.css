@@ -1,0 +1,26 @@
+.base {
+  align-items: center;
+  background-color: var(--g1);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 926px;
+  position: absolute;
+  top: 0;
+  width: 428px;
+}
+
+.tab-base {
+  align-items: flex-end;
+  background-color: var(--text);
+  border: 1px none;
+  display: flex;
+  height: 100px;
+  justify-content: flex-end;
+  margin-top: 762px;
+  min-width: 428px;
+  padding: 0 72px;
+  position: relative;
+}
+

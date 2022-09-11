@@ -1,0 +1,34 @@
+.new-tab-button {
+  align-items: flex-start;
+  background-color: var(--bb-green);
+  border: 1px none;
+  border-radius: 12px;
+  display: flex;
+  height: 70px;
+  left: 35px;
+  min-width: 358px;
+  padding: 20px 62px;
+  position: absolute;
+  top: 711px;
+}
+
+.logo-container {
+  align-self: center;
+  height: 26px;
+  position: relative;
+  width: 26px;
+}
+
+.share-address {
+  height: 29px;
+  letter-spacing: -1.00px;
+  margin-left: 60px;
+  min-width: 62px;
+  text-align: center;
+}
+
+.new-tab-button.new-tab-button-1 .share-address {
+  margin-left: 14px;
+  min-width: 155px;
+}
+

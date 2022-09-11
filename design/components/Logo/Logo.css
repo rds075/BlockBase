@@ -1,0 +1,31 @@
+.logo,
+.logo-1,
+.logo-2,
+.logo-3,
+.logo-4,
+.logo-5,
+.logo-6,
+.logo-7 {
+  align-items: flex-start;
+  align-self: center;
+  background-image: url(/static/img/image-24@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.7px none;
+  display: flex;
+  min-width: 20px;
+}
+
+.image-25,
+.image-25-1,
+.image-25-2,
+.image-25-3,
+.image-25-4,
+.image-25-5,
+.image-25-6,
+.image-25-7 {
+  height: 20px;
+  object-fit: cover;
+  width: 20px;
+}
+

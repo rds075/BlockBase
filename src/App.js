@@ -90,16 +90,6 @@ function PageContents() {
   if (!wallet) {
     return (
       <>
-        {!ignoreSuggestion && (
-          <WalletSuggestionDialog
-            open={showWalletSuggestion}
-            onClose={() => setShowWalletSuggestion(false)}
-            onIgnore={() => {
-              window.localStorage.setItem(suggestionKey, true);
-              setShowWalletSuggestion(false);
-            }}
-          />
-        )}
         <LoginPage />
       </>
     );

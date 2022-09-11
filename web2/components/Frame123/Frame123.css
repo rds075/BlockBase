@@ -1,0 +1,42 @@
+.frame-123 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 60px;
+  left: 0;
+  min-width: 162px;
+  position: absolute;
+  top: 3px;
+}
+
+.bottom {
+  align-items: flex-end;
+  background-color: var(--bb-green);
+  border: 1px none;
+  border-radius: 12px;
+  display: flex;
+  height: 60px;
+  min-width: 162px;
+  padding: 12px 40px;
+}
+
+.overlap-group {
+  height: 28px;
+  position: relative;
+  width: 82px;
+}
+
+.sign-up {
+  height: 19px;
+  left: 0;
+  letter-spacing: -1.00px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 82px;
+}
+
+.frame-123.frame-123-1 {
+  top: 485px;
+}
+

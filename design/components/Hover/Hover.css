@@ -1,0 +1,72 @@
+.hover-4 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 926px;
+  min-width: 428px;
+}
+
+.overlay .hover-4 {
+  background-color: #00000000;
+}
+
+.hover {
+  align-items: flex-end;
+  border: 1px none;
+  box-shadow: 0px 2px 10px #00000040;
+  display: flex;
+  height: 104px;
+  min-width: 392px;
+}
+
+.overlap-group3 {
+  height: 102px;
+  position: relative;
+  width: 392px;
+}
+
+.rectangle-2725 {
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 392px;
+}
+
+.bump {
+  height: 17px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.outline-up {
+  height: 24px;
+  left: 119px;
+  position: absolute;
+  top: 34px;
+  width: 24px;
+}
+
+.outline-up-1 {
+  height: 24px;
+  left: 249px;
+  position: absolute;
+  top: 34px;
+  width: 24px;
+}
+
+#overlay-hover-4 {
+  background-color: transparent;
+}
+
+#overlay-hover-4 .hover-4 {
+  left: 18px;
+  top: 75px;
+}
+
+#overlay-hover-4 .container-center-horizontal {
+  justify-content: normal;
+}
+

@@ -1,0 +1,36 @@
+.splash {
+  align-items: flex-start;
+  background-color: var(--g1);
+  border: 1px none;
+  cursor: pointer;
+  display: flex;
+  height: 926px;
+  overflow: hidden;
+  width: 428px;
+}
+
+.block-base-container {
+  height: 880px;
+  margin-left: 10px;
+  margin-top: 65px;
+  position: relative;
+  width: 428px;
+}
+
+.block-base-01 {
+  height: 377px;
+  left: 52px;
+  position: absolute;
+  top: 250px;
+  width: 304px;
+}
+
+.block-base-icon-01 {
+  height: 228px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 181px;
+  width: 247px;
+}
+

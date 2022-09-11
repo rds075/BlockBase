@@ -1,0 +1,16 @@
+.token-icon-2 {
+  border: 1px none;
+  height: 23px;
+  width: 23px;
+}
+
+.token-icon-2.logo-14,
+.token-icon-2.logo-15 {
+  border: 0.8px none;
+  height: 24px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 24px;
+}
+

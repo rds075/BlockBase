@@ -1,0 +1,14 @@
+.nfts {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border: 1px none;
+  display: flex;
+  width: 428px;
+}
+
+.overlap-group1 {
+  height: 926px;
+  position: relative;
+  width: 428px;
+}
+

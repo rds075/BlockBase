@@ -1,0 +1,18 @@
+.logo-11 {
+  align-items: flex-end;
+  border: 0.65px none;
+  display: flex;
+  height: 26px;
+  left: 9px;
+  min-width: 26px;
+  padding: 1.3px 1.3px;
+  position: absolute;
+  top: 2px;
+}
+
+.logo-11.logo-12,
+.logo-11.logo-13 {
+  left: 0;
+  top: 0;
+}
+

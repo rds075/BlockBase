@@ -1,0 +1,51 @@
+.input-1,
+.input-2,
+.input-3,
+.input-4 {
+  align-items: flex-start;
+  background-color: var(--g2);
+  border: 1px none;
+  border-radius: 12px;
+  display: flex;
+  height: 47px;
+  justify-content: flex-end;
+  left: 32px;
+  min-width: 353px;
+  padding: 0 4px;
+  position: absolute;
+  top: 75px;
+}
+
+.overlap-group-18,
+.overlap-group-19,
+.overlap-group-20,
+.overlap-group-21 {
+  height: 47px;
+  position: relative;
+  width: 332px;
+}
+
+.search-accounts,
+.search-blockchains,
+.search-networks,
+.search-networks-1 {
+  height: 45px;
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: 18.4px;
+  position: absolute;
+  top: 0;
+  width: 305px;
+}
+
+.search,
+.search-1,
+.search-2,
+.search-3 {
+  height: 16px;
+  left: 308px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+

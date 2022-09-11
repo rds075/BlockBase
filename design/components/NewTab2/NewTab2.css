@@ -1,0 +1,90 @@
+.new-tab-1,
+.new-tab-2,
+.new-tab-3,
+.new-tab-4,
+.new-tab-5,
+.new-tab-6 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 84px;
+  min-width: 283px;
+}
+
+.flex-col-2,
+.flex-col-3,
+.flex-col-4,
+.flex-col-5,
+.flex-col-6,
+.flex-col-7 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 83px;
+  width: 78px;
+}
+
+.epcoin-1,
+.epcoin-2,
+.epcoin-3,
+.epcoin-4,
+.epcoin-5,
+.epcoin-6 {
+  height: 38px;
+  width: 38px;
+}
+
+.tokens,
+.tokens-1,
+.tokens-2,
+.tokens-3,
+.tokens-4,
+.tokens-5 {
+  height: 29px;
+  letter-spacing: -0.32px;
+  line-height: 18.4px;
+  margin-top: 1px;
+  text-align: center;
+  width: 78px;
+}
+
+.rectangle-2731-1,
+.rectangle-2731-2,
+.rectangle-2731-3,
+.rectangle-2731-4,
+.rectangle-2731-5,
+.rectangle-2731-6 {
+  background-color: var(--bb-green);
+  border: 1px none;
+  border-radius: 100px;
+  height: 6px;
+  margin-right: 1.0px;
+  margin-top: 9px;
+  width: 61px;
+}
+
+.akar-iconsgrid-1,
+.akar-iconsgrid-2,
+.akar-iconsgrid-3,
+.akar-iconsgrid-4,
+.akar-iconsgrid-5,
+.akar-iconsgrid-6 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 53px;
+  width: 40px;
+}
+
+.fluenthistory-16-regular-1,
+.fluenthistory-16-regular-2,
+.fluenthistory-16-regular-3,
+.fluenthistory-16-regular-4,
+.fluenthistory-16-regular-5,
+.fluenthistory-16-regular-6 {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 72px;
+  width: 40px;
+}
+

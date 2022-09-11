@@ -1,0 +1,59 @@
+:root { 
+  --bb-green: #6deb51;
+  --black: #000000;
+  --eerie-black: #181818;
+  --gray: #828282;
+  --text: #2d2d2d;
+  --white: #ffffff;
+ 
+  --font-size-l: 50px;
+  --font-size-m: 29px;
+  --font-size-s: 26px;
+  --font-size-xl: 54px;
+  --font-size-xs: 24px;
+  --font-size-xxl: 85px;
+  --font-size-xxs: 19px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-kepler_std-medium: "Kepler Std-Medium", Helvetica;
+  --font-family-sf_pro_display-medium: "SF Pro Display-Medium", Helvetica;
+}
+.inter-medium-white-19px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-semi-bold-heavy-metal-24px {
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.keplerstd-medium-black-54px {
+  color: var(--black);
+  font-family: var(--font-family-kepler_std-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sfprodisplay-medium-gray-29px {
+  color: var(--gray);
+  font-family: var(--font-family-sf_pro_display-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.inter-medium-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+}

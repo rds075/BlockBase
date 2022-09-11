@@ -1,0 +1,21 @@
+.nft {
+  align-items: flex-start;
+  border: 1px none;
+  border-radius: 40px;
+  display: flex;
+  height: 435px;
+  left: 43px;
+  min-width: 343px;
+  position: absolute;
+  top: 155px;
+}
+
+.flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 343px;
+  position: relative;
+  width: 160px;
+}
+

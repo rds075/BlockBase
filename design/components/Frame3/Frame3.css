@@ -1,0 +1,24 @@
+.frame-3-1,
+.frame-3-2,
+.frame-3-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 1px none;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 6px;
+  min-width: 77px;
+}
+
+.usdc-1,
+.sol-1,
+.usdc-2,
+.sol-2,
+.usdc-3 {
+  height: 34px;
+  letter-spacing: -0.72px;
+  line-height: 26.4px;
+  margin-top: -1px;
+  width: 77px;
+}
+

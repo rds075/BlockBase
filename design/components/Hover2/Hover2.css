@@ -1,0 +1,126 @@
+.hover-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 926px;
+  min-width: 428px;
+}
+
+.overlay .hover-1 {
+  background-color: #00000000;
+}
+
+.hover-2 {
+  align-items: flex-end;
+  border: 1px none;
+  box-shadow: 0px 2px 10px #00000040;
+  display: flex;
+  height: 369px;
+  min-width: 392px;
+}
+
+.overlap-group1-2 {
+  height: 367px;
+  margin-left: -13px;
+  position: relative;
+  width: 405px;
+}
+
+.rectangle-2725-1 {
+  height: 360px;
+  left: 13px;
+  position: absolute;
+  top: 7px;
+  width: 392px;
+}
+
+.bump-1 {
+  height: 17px;
+  left: 191px;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.account-1 {
+  height: 45px;
+  left: 67px;
+  letter-spacing: -0.64px;
+  line-height: 18.4px;
+  position: absolute;
+  top: 144px;
+  width: 166px;
+}
+
+.akar-iconscheck {
+  height: 20px;
+  left: 37px;
+  position: absolute;
+  top: 262px;
+  width: 20px;
+}
+
+.account-2 {
+  height: 45px;
+  left: 67px;
+  letter-spacing: -0.64px;
+  line-height: 18.4px;
+  position: absolute;
+  top: 196px;
+  width: 127px;
+}
+
+.account-3-8 {
+  height: 45px;
+  left: 67px;
+  letter-spacing: -0.64px;
+  line-height: 18.4px;
+  position: absolute;
+  top: 248px;
+  width: 127px;
+}
+
+.add-account {
+  height: 45px;
+  left: 67px;
+  letter-spacing: -0.64px;
+  line-height: 18.4px;
+  position: absolute;
+  top: 300px;
+  width: 134px;
+}
+
+.back-title-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 327px;
+  padding: 0 28px;
+  position: absolute;
+  top: 17px;
+}
+
+.accounts {
+  height: 64px;
+  letter-spacing: -0.60px;
+  line-height: 23.0px;
+  margin-top: -1px;
+  width: 250px;
+}
+
+#overlay-hover {
+  background-color: transparent;
+}
+
+#overlay-hover .container-center-horizontal {
+  justify-content: normal;
+}
+
+#overlay-hover .hover {
+  left: 19px;
+  top: 72px;
+}
+

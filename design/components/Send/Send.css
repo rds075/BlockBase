@@ -1,0 +1,51 @@
+.send {
+  align-items: flex-start;
+  background-color: var(--tundora);
+  border: 1px none;
+  display: flex;
+  width: 428px;
+}
+
+.overlap-group2-2 {
+  height: 926px;
+  position: relative;
+  width: 428px;
+}
+
+.back-1 {
+  height: 34px;
+  left: 32px;
+  position: absolute;
+  top: 158px;
+  width: 34px;
+}
+
+.back-title-2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 64px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 327px;
+  position: absolute;
+  top: 127px;
+}
+
+.back-2 {
+  align-self: center;
+  cursor: pointer;
+  height: 34px;
+  margin-bottom: 0.06px;
+  width: 34px;
+}
+
+.place {
+  height: 64px;
+  letter-spacing: -0.78px;
+  line-height: 29.9px;
+  margin-left: 11px;
+  margin-top: -1px;
+  width: 250px;
+}
+

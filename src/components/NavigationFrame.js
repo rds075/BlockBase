@@ -76,26 +76,9 @@ export default function NavigationFrame({ children }) {
   return (
     <>
       <AppBar position="static">
-        {!isExtension && (
-          <div
-            style={{
-              textAlign: 'center',
-              background: '#fafafa',
-              color: 'black',
-              paddingLeft: '24px',
-              paddingRight: '24px',
-              fontSize: '14px',
-            }}
-          >
-            <Typography>
-              Beware of sites attempting to impersonate sollet.io or other DeFi
-              services.
-            </Typography>
-          </div>
-        )}
         <Toolbar>
           <Typography variant="h6" className={classes.title} component="h1">
-            {isExtensionWidth ? 'Sollet' : 'Solana SPL Token Wallet'}
+            {isExtensionWidth ? 'Sollet' : ''}
           </Typography>
           <NavigationButtons />
         </Toolbar>
@@ -454,17 +437,6 @@ function Footer() {
   const classes = useFooterStyles();
   return (
     <footer className={classes.footer}>
-      <Button
-        variant="outlined"
-        color="primary"
-        component="a"
-        target="_blank"
-        rel="noopener"
-        href="https://github.com/serum-foundation/spl-token-wallet"
-        startIcon={<CodeIcon />}
-      >
-        View Source
-      </Button>
     </footer>
   );
 }

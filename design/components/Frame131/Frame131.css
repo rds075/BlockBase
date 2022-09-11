@@ -1,0 +1,47 @@
+.frame-131 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 75px;
+  justify-content: flex-end;
+  left: 22px;
+  min-width: 88px;
+  position: absolute;
+  top: 27px;
+}
+
+.overlap-group {
+  height: 62px;
+  margin-top: -1px;
+  position: relative;
+  width: 136px;
+}
+
+.blockchain {
+  height: 37px;
+  left: 0;
+  letter-spacing: -0.72px;
+  line-height: 26.4px;
+  position: absolute;
+  top: 0;
+  width: 136px;
+}
+
+.solana {
+  height: 37px;
+  left: 0;
+  letter-spacing: -0.52px;
+  line-height: 19.0px;
+  position: absolute;
+  top: 25px;
+  width: 136px;
+}
+
+.frame-131.frame-132 {
+  left: 152px;
+}
+
+.frame-131.frame-133 {
+  left: 282px;
+}
+

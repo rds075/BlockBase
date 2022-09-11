@@ -1,0 +1,66 @@
+.x1 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px none;
+  display: flex;
+  height: 160px;
+  min-width: 160px;
+  padding: 6px 5px;
+}
+
+.text {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  min-width: 150px;
+}
+
+.overlap-group-9 {
+  height: 36px;
+  margin-top: -1px;
+  position: relative;
+  width: 150px;
+}
+
+.rectangle-2738 {
+  background-color: var(--black);
+  border: 1px none;
+  border-radius: 12px;
+  height: 35px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 1px;
+  width: 150px;
+}
+
+.apocalpyse {
+  height: 36px;
+  left: 11px;
+  letter-spacing: -0.72px;
+  line-height: 26.4px;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.number {
+  height: 36px;
+  left: 24px;
+  letter-spacing: -0.72px;
+  line-height: 26.4px;
+  position: absolute;
+  text-align: right;
+  top: 0;
+  width: 115px;
+}
+
+.x1.x3 {
+  margin-top: 23px;
+}
+
+.x1.x2-1 {
+  margin-left: 23px;
+}
+

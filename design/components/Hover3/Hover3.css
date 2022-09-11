@@ -1,0 +1,126 @@
+.hover2 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 320px;
+  min-width: 392px;
+  overflow-x: hidden;
+}
+
+.overlap-group1-5 {
+  height: 318px;
+  margin-left: -13px;
+  margin-top: 2.49px;
+  position: relative;
+  width: 405px;
+}
+
+.rectangle-2725-2 {
+  height: 311px;
+  left: 13px;
+  position: absolute;
+  top: 7px;
+  width: 392px;
+}
+
+.bump-2 {
+  height: 17px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 37px;
+}
+
+.solana-1 {
+  height: 45px;
+  left: 94px;
+  letter-spacing: -0.64px;
+  line-height: 18.4px;
+  position: absolute;
+  top: 144px;
+  width: 52px;
+}
+
+.ethereum {
+  height: 45px;
+  left: 94px;
+  letter-spacing: -0.64px;
+  line-height: 18.4px;
+  position: absolute;
+  top: 196px;
+  width: 127px;
+}
+
+.add-blockchain {
+  height: 45px;
+  left: 94px;
+  letter-spacing: -0.64px;
+  line-height: 18.4px;
+  position: absolute;
+  top: 249px;
+  width: 134px;
+}
+
+.logo-23 {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 0.7px none;
+  display: flex;
+  height: 28px;
+  left: 59px;
+  min-width: 28px;
+  position: absolute;
+  top: 154px;
+}
+
+.image-25-11 {
+  height: 28px;
+  object-fit: cover;
+  width: 28px;
+}
+
+.logo-24 {
+  border: 0.7px none;
+  height: 28px;
+  left: 56px;
+  position: absolute;
+  top: 206px;
+  width: 28px;
+}
+
+.thick-check {
+  height: 16px;
+  left: 32px;
+  position: absolute;
+  top: 160px;
+  width: 16px;
+}
+
+.ellipse-10 {
+  background-color: var(--white);
+  border: 1px none;
+  border-radius: 14px;
+  height: 28px;
+  left: 59px;
+  position: absolute;
+  top: 206px;
+  width: 28px;
+}
+
+.logosethereum {
+  height: 19px;
+  left: 67px;
+  position: absolute;
+  top: 210px;
+  width: 12px;
+}
+
+.akar-iconscheck-1 {
+  height: 20px;
+  left: 32px;
+  position: absolute;
+  top: 158px;
+  width: 20px;
+}
+

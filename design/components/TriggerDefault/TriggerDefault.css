@@ -1,0 +1,28 @@
+.trigger-default {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 47px;
+  left: 85px;
+  min-width: 32px;
+  padding: 11px 4px;
+  position: absolute;
+  top: 0;
+}
+
+.outline-up-3 {
+  height: 24px;
+  width: 24px;
+}
+
+.trigger-default.trigger-default-3,
+.trigger-default.trigger-default-8,
+.trigger-default.trigger-default-9,
+.trigger-default.trigger-default-10 {
+  left: 300px;
+}
+
+.trigger-default.trigger-default-5 {
+  left: 310px;
+}
+
