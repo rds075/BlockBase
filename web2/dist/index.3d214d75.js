@@ -27073,35 +27073,21 @@ var _blockBaseIcon202Default = parcelHelpers.interopDefault(_blockBaseIcon202);
 function App() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.BrowserRouter), {
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Switch), {
-            children: [
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                    path: "/landing-page",
-                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _landingPageDefault.default), {
-                        ...landingPageData
-                    }, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 12,
-                        columnNumber: 11
-                    }, this)
+            children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
+                path: "/",
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _landingPageDefault.default), {
+                    ...landingPageData
                 }, void 0, false, {
                     fileName: "App.jsx",
-                    lineNumber: 11,
-                    columnNumber: 9
-                }, this),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _reactRouterDom.Route), {
-                    path: "/:path(|block-base-icon-2-02)",
-                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _blockBaseIcon202Default.default), {}, void 0, false, {
-                        fileName: "App.jsx",
-                        lineNumber: 15,
-                        columnNumber: 11
-                    }, this)
-                }, void 0, false, {
-                    fileName: "App.jsx",
-                    lineNumber: 14,
-                    columnNumber: 9
+                    lineNumber: 12,
+                    columnNumber: 11
                 }, this)
-            ]
-        }, void 0, true, {
+            }, void 0, false, {
+                fileName: "App.jsx",
+                lineNumber: 11,
+                columnNumber: 9
+            }, this)
+        }, void 0, false, {
             fileName: "App.jsx",
             lineNumber: 10,
             columnNumber: 7
@@ -27163,10 +27149,10 @@ const frame1332Data = {
 };
 const landingPageData = {
     blockBase01: "/img/block-base-01@2x.png",
-    nemoEnimIpsamVolu: "Nemo enim ipsam voluptatem quia voluptas",
-    sedUtPerspiciatis: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    nemoEnimIpsamVolu: "For no one wants pleasure because it is pleasure",
+    sedUtPerspiciatis: "But in order that you may see whence all this born error of those who accuse pleasure and praise pain, I will open the whole matter, and explain the very things which were said by that discoverer of truth and, as it were, the architect of a happy life.",
     iphone_Mockup1: "/img/iphone-mockup-1@1x.png",
-    loremIpsumDolorSi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    loremIpsumDolorSi: "The customer is very important, the customer will be followed",
     learnMore: "Learn more",
     frame131: "/img/3d-fluency-coin-wallet-1@2x.png",
     x3DFluencySandClock11: "/img/3d-fluency-sand-clock-1-1@2x.png",
@@ -30932,7 +30918,7 @@ function Frame125(props) {
             children: [
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "lorem-ipsum-dolor valign-text-middle keplerstd-medium-black-54px",
-                    children: "Lorem ipsum dolor"
+                    children: "Thank you very much"
                 }, void 0, false, {
                     fileName: "components/Frame125/index.jsx",
                     lineNumber: 10,
@@ -30940,7 +30926,7 @@ function Frame125(props) {
                 }, this),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "sed-ut-perspiciatis-1 valign-text-middle sfprodisplay-medium-gray-29px",
-                    children: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+                    children: "But in order that you may see whence all this born error of those who accuse pleasure and praise pain, I will open the whole matter, and explain the very things which were said by that discoverer of truth and, as it were, the architect of a happy life."
                 }, void 0, false, {
                     fileName: "components/Frame125/index.jsx",
                     lineNumber: 11,

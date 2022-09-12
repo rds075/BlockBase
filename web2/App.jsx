@@ -8,11 +8,8 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/landing-page">
+        <Route path="/">
           <LandingPage {...landingPageData} />
-        </Route>
-        <Route path="/:path(|block-base-icon-2-02)">
-          <BlockBaseIcon202 />
         </Route>
       </Switch>
     </Router>
@@ -82,10 +79,10 @@ const frame1332Data = {
 
 const landingPageData = {
     blockBase01: "/img/block-base-01@2x.png",
-    nemoEnimIpsamVolu: "Nemo enim ipsam voluptatem quia voluptas",
-    sedUtPerspiciatis: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    nemoEnimIpsamVolu: "For no one wants pleasure because it is pleasure",
+    sedUtPerspiciatis: "But in order that you may see whence all this born error of those who accuse pleasure and praise pain, I will open the whole matter, and explain the very things which were said by that discoverer of truth and, as it were, the architect of a happy life.",
     iphone_Mockup1: "/img/iphone-mockup-1@1x.png",
-    loremIpsumDolorSi: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    loremIpsumDolorSi: "The customer is very important, the customer will be followed",
     learnMore: "Learn more",
     frame131: "/img/3d-fluency-coin-wallet-1@2x.png",
     x3DFluencySandClock11: "/img/3d-fluency-sand-clock-1-1@2x.png",
